@@ -1,0 +1,27 @@
+{
+    "pre": [
+        "SMS-based",
+        "Online"
+    ],
+
+    "main": [
+        "Hotel Reservation",
+        "Hotel Management",
+        "Airline Management",
+        "Restaurant Reservation",
+        "Billing",
+        "Bidding",
+        "Auctioning",
+        "Payroll",
+        "Shopping Cart",
+        "Library",
+        "Hospital Management",
+        "Hospital Reservation",
+        "Student Information",
+        "Enrollment",
+        "Faculty Evaluation",
+        "SGO Voting",
+        "Cemetery Management",
+        "Examination"
+    ]
+}
