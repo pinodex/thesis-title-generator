@@ -27,7 +27,7 @@
         }
     };
 
-    request.open('GET', '../../words.json', true);
+    request.open('GET', document.location.href + '/words.json', true);
     request.send();
 
     document.getElementById('generateButton').addEventListener('click', generate, false);
